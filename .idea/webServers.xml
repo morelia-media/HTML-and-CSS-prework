@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ab9cb534-a29c-4694-b8a8-922be5958c4f" name="HTMLCSS" url="http://ddfullstack.cloud/~morelia-media/HTMLCSS">
+        <fileTransfer rootFolder="/home/morelia-media/public_html/HTMLCSS" accessType="SFTP" host="ddfullstack.cloud" port="22" sshConfigId="b09c8f89-bd84-4f60-b093-f22effd2ef29" sshConfig="morelia-media@ddfullstack.cloud:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
